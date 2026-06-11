@@ -1,5 +1,7 @@
 # ocr
 
+> **Docs & wiki:** [github.com/jaskier-os/docs/wiki](https://github.com/jaskier-os/docs/wiki)
+
 ## What it is
 
 An OCR HTTP service. Send it an image, it runs the LightOnOCR vision model
